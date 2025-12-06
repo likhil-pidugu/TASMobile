@@ -450,14 +450,6 @@ Add your chosen license here (MIT, GPL, etc.).
 * [x] Able to write, assemble, link, and run 8086 Assembly on Android
 * [ ] More sample programs (coming soon)
 
-Happy hacking with Assembly on mobile 👾
+Happy coding with Assembly on mobile 👾
 
-```
-
----
-
-Blunt mentor note:  
-Your PDF walkthrough is solid visually, but it was too “click-next-click-next” and didn’t explain **what** is happening (like “this folder is your C:\ drive”, why DIR matters, what TASM/TLINK/TD actually do). This README fixes that by turning your slideshow into a proper **developer-friendly, copy-paste-ready guide**.  
-
-If you want, next step is: add **2–3 more sample `.ASM` programs** (input/output, loops, arithmetic) to the repo and link them from this README. That’ll make TASMobile look like a real learning project, not just a setup tutorial.
 ```
