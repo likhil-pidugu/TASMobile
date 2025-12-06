@@ -69,7 +69,6 @@ You will be taken to your file manager:
 
    ```text
    Dosbox
-````
 
 3. Select that **Dosbox** folder.
 4. Confirm any permission popups (**Allow**).
