@@ -431,15 +431,11 @@ If you get stuck at any step:
 * Open my project site: *(add your URL here)*
 * Reach me on:
 
-  * Instagram: *(your handle)*
-  * LinkedIn: *(your profile)*
+  * Instagram: *[@pidugulikhil](https://instagram.com/pidugulikhil)*
+  * LinkedIn: *[@pidugulikhil](https://linkedin.com/in/pidugulikhil)*
   * GitHub: [@likhil-pidugu](https://github.com/likhil-pidugu)
+  * Portfolio: [@PiduguLikhil](https://likhil.42web.io)
 
----
-
-## 📝 License
-
-Add your chosen license here (MIT, GPL, etc.).
 
 ---
 
