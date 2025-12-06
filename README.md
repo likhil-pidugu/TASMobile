@@ -428,7 +428,6 @@ These prove that TASM and your programs run **fully on mobile**.
 
 If you get stuck at any step:
 
-* Open my project site: *(add your URL here)*
 * Reach me on:
 
   * Instagram: *[@pidugulikhil](https://instagram.com/pidugulikhil)*
