@@ -28,7 +28,7 @@ By following this guide, you will be able to:
 
 - Android phone.
 - Internet connection (only once, to download apps/files).
-- **Magic DOSBox Lite** (from Google Play Store).
+- **Magic DOSBox Lite** (from Google Play Store) or <a href="https://play.google.com/store/apps/details?id=bruenor.magicbox.free">click here</a>.
 - **TASM.zip** (Turbo Assembler package – <a href="http://projects.likhil.42web.io/TASM">download here</a>).
 
 ---
