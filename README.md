@@ -451,5 +451,3 @@ Add your chosen license here (MIT, GPL, etc.).
 * [ ] More sample programs (coming soon)
 
 Happy coding with Assembly on mobile 👾
-
-```
