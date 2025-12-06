@@ -208,7 +208,7 @@ Then:
 1. Tap **Download TASM.zip**.
 2. The file will be saved in your **Downloads** folder.
 
-*(If your repo contains TASM.zip, you can alternatively download it directly from GitHub Releases / files.)*
+*(Or else download that TASM.zip from this github itself.)*
 
 ---
 
